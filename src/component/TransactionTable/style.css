@@ -1,0 +1,18 @@
+.my-table {
+    width: 100%;
+    overflow-x: auto; 
+  }
+  
+  .ant-table {
+    width: max-content; 
+  }
+  
+  .input-flex {
+    display: flex;
+    align-items: center;
+  }
+  
+  .input-flex img {
+    margin-right: 8px; 
+  }
+  
